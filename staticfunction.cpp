@@ -6,4 +6,6 @@ class Mahasiswa {
 
 private:
     static int nim;
+public:
+    
 }
