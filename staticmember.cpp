@@ -13,6 +13,6 @@ public:
     void printAll();
 
     Mahasiswa(string pnama) :nama(pnama) {
-        s
+        setID();
     }
 }
