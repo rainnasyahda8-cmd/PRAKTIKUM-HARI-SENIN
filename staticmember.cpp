@@ -18,3 +18,5 @@ public:
 };
 
 int Mahasiswa::nim = 10;
+
+void Mahasiswa::setID
