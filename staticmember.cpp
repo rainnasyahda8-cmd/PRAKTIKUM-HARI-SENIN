@@ -25,4 +25,6 @@ void Mahasiswa::setID(){
 
 void Mahasiswa::printAll(){
     cout << "ID : " << id << endl;
+    cout << "Nama : " << nama << endl;
+    cout <<
 }
